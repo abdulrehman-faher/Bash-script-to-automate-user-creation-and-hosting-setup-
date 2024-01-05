@@ -1,2 +1,6 @@
 # Bash-script-to-automate-user-creation-and-hosting-setup-
 Bash Script
+#  Save it as a file (e.g., create-hosting.sh).
+#  Make it executable: chmod +x create-hosting.sh
+#  Run it: ./create-hosting.sh
+#  Enter the username and custom domain when prompted.
